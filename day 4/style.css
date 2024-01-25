@@ -1,0 +1,104 @@
+h1{
+  color: white;
+}
+body{
+    background-color: black;
+    text-align: center;
+  }
+#giorguna{
+    display: flex;
+  }
+#lizikuna{
+  width: 100px;
+  height: 50px;
+  align-items: center;
+  margin-top: 80px;
+  border-radius: 15px;
+  border: none;
+}
+#sandro{
+  display: flex;
+}
+#sandro button{
+  width: 100px;
+  height: 50px;
+  align-items: center;
+  margin-top: 80px;
+  border-radius: 15px;
+  border: none;
+}
+
+#goldenstate{
+  display: flex;
+}
+
+#goldenstate button{
+  width: 100px;
+  height: 50px;
+  align-items: center;
+  margin-top: 80px;
+  border-radius: 15px;
+  border: none;
+}
+
+
+#allthree{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#first-pair{
+  display: flex;
+}
+#second-pair{
+  display: flex;
+}
+#Lakers{
+  display: flex;
+}
+#Lakers button{
+  width: 100px;
+  height: 50px;
+  align-items: center;
+  margin-top: 80px;
+  border-radius: 15px;
+  border: none;
+}
+#LakersWhite{
+  display: flex;
+}
+#LakersWhite button{
+  width: 100px;
+  height: 50px;
+  align-items: center;
+  margin-top: 80px;
+  border-radius: 15px;
+  border: none;
+}
+#Hornets{
+  display: flex;
+}
+#Hornets button{
+  width: 100px;
+  height: 50px;
+  align-items: center;
+  margin-top: 80px;
+  border-radius: 15px;
+  border: none;
+  color: white;
+}
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+form label{
+  color: white;
+
+}
+form input{
+  margin-right: 10px;
+}
